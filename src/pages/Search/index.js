@@ -31,7 +31,6 @@ export default function Search({ route, navigation }) {
 
 const styles = StyleSheet.create({
   headerContainer: {
-    marginTop: 36,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',

@@ -80,7 +80,6 @@ export default function Home({ navigation }) {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 36,
     padding: 15,
     flex: 1,
     backgroundColor: '#f3f9ff'
